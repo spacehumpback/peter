@@ -1,0 +1,16 @@
+.main-tribute {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.main-tribute img {
+  max-width: 100%;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.main-tribute p {
+  font-size: 1.2rem;
+  margin-top: 20px;
+  color: #555;
+}
